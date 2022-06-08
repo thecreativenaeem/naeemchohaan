@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--PurSF_jJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h9hrqci095gjctvz9pmz.gif" alt="naeemchohaan" /> </p>
+
 <h1 align="center">Hi 👋, I'm Naeem Chuhaan</h1>
 <h3 align="center">A passionate frontend developer & Designer from Pakistan</h3>
 
@@ -13,7 +15,7 @@
 
 - ⚡ Fun fact **i spend 18 hours on computer**
 
-## 🌐Socials
+## 🌐Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/naeemchuhaan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_naeemchohaan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naeemchuhaan) 
 
 # 💻Tech Stack
