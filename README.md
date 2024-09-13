@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naeemchohaan&label=Profile%20views&color=0e75b6&style=flat" alt="naeemchohaan" /> </p>
 
-- 🔭 I’m currently working on **Buy Sell App**
+- 🔭 I’m currently working on **Unilevel MLM System**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Vue Js**
 
 - 💬 Ask me about **Android,Flutter,Php,HTML,CSS,Photoshop,Premier Pro**
 
-- 📫 How to reach me **@ig_naeemchohaan**
+- 📫 How to reach me **@thecreativenaeem**
 
 - ⚡ Fun fact **i spend 18 hours on computer**
 
